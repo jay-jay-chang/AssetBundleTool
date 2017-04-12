@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: ede4bbab716dbed418a6c336e94d8347
+timeCreated: 1488441219
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_menu_card_a07_1
+    21300002: ui_menu_card_a03_1
+    21300004: ui_menu_card_a05_2
+    21300006: ui_menu_card_a05_1
+    21300008: ui_menu_card_a18_2
+    21300010: ui_menu_card_a15_1
+    21300012: ui_menu_card_a17_2
+    21300014: ui_menu_card_a17_1
+    21300016: ui_menu_card_a11_1
+    21300018: ui_menu_card_a06_1
+    21300020: ui_menu_card_a06_2
+    21300022: ui_menu_card_a02_2
+    21300024: ui_menu_card_a08_2
+    21300026: ui_menu_card_a09_1
+    21300028: ui_menu_card_a10_2
+    21300030: ui_menu_card_a07_2
+    21300032: ui_menu_card_a18_1
+    21300034: ui_menu_card_a14_2
+    21300036: ui_menu_card_a13_1
+    21300038: ui_menu_card_a14_1
+    21300040: ui_menu_card_a04_1
+    21300042: ui_menu_card_a04_2
+    21300044: ui_menu_card_a12_1
+    21300046: ui_menu_card_a15_2
+    21300048: ui_menu_card_a16_1
+    21300050: ui_menu_card_a13_2
+    21300052: ui_menu_card_a10_1
+    21300054: ui_menu_card_a16_2
+    21300056: ui_menu_card_a12_2
+    21300058: ui_menu_card_a02_1
+    21300060: ui_menu_card_a01_1
+    21300062: ui_menu_card_a09_2
+    21300064: ui_menu_card_a01_2
+    21300066: ui_menu_card_a03_2
+    21300068: ui_menu_card_a08_1
+    21300070: ui_menu_card_a11_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_menu_card_a07_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a03_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 470
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a05_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a05_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 470
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a18_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a15_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 529
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a17_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a17_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 588
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a11_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 588
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a06_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 706
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a06_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a02_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a08_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a09_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 765
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a10_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a07_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a18_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 824
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a14_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a13_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 942
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a14_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 940
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a04_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 940
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a04_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 470
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a12_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 470
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a15_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 705
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a16_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 529
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a13_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a10_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 529
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a16_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a12_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a02_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 588
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a01_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 647
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a09_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 235
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a01_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 470
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a03_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 705
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a08_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 883
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ui_menu_card_a11_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 167
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

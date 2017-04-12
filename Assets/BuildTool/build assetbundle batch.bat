@@ -1,0 +1,1 @@
+start "" "C:\Program Files (x86)\Unity\Editor\Unity.exe" -projectPath "F:\AssetbundleTool" -buildTarget "Android" -executeMethod "AssetBundleBuilder.BuildAssetBundlesCMD" "Assets/BuildTool/BuiltAssetBundles/" "Assets/BuildTool/BuiltPrefabs/" "false"
